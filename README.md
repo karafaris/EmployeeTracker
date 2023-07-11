@@ -3,7 +3,7 @@ A command-line application for managing a company's departments, roles, and empl
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-539436) ![Node.JS Badge](https://img.shields.io/badge/-Node.JS-CF1848) ![MySQL Badge](https://img.shields.io/badge/-MySQL-61489C)  
 
-![Application Screenshot](img/usage.gif)
+
 
 
 ## User Story
@@ -69,15 +69,15 @@ mysql -u root -p < db/schema.sql
 ## Usage 
 * Start the application by typing `node tracker` in your command line:
 
-![Application Screenshot](img/start.gif) 
+![Application Screenshot]
 
 * Select a choice when prompted and continue to make changes for as long as you'd like:
 
-![Application Screenshot](img/usage.gif) 
+![Application Screenshot]
 
 * When you're done, you can select `Exit` at the end of the main menu choices or `^c` at any time:
 
-![Application Screenshot](img/exit.gif) 
+![Application Screenshot]
 
 
 ## Credits
