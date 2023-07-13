@@ -1,9 +1,7 @@
 # Employee Tracker
-A command-line application for managing a company's departments, roles, and employees using node, inquirer, and MySQL. From viewing your company’s departments and roles to updating an employee’s manager or salary, you can use this simple application to make your changes in one place.
+I developed a command-line application using node, inquirer, and MySQL to efficiently manage a company's departments, roles, and employees. My motivation was to provide a centralized solution that simplifies the process of handling various organizational aspects. This application solves the problem of scattered information by allowing users to view, update, and modify department, role, and employee data in one place. Through this project, I gained valuable knowledge and experience while its simplicity and comprehensive functionality make it stand out as a powerful tool for efficient company management.
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-539436) ![Node.JS Badge](https://img.shields.io/badge/-Node.JS-CF1848) ![MySQL Badge](https://img.shields.io/badge/-MySQL-61489C)  
-
-
 
 
 ## User Story
@@ -39,8 +37,12 @@ THEN the application stops running
 
 ## Table of Contents 
 * [Install](#installation)
-* [Usage](#usage)  
+* [Usage](#usage)
+* [Screenshot](#screenshot)  
+* [GitHub URL](#github)
+* [YouTube URL](#youtube)
 * [Credits](#credits)
+
 
 
 ## Installation
@@ -69,15 +71,19 @@ mysql -u root -p < db/schema.sql
 ## Usage 
 * Start the application by typing `node tracker` in your command line:
 
-![Application Screenshot]
 
 * Select a choice when prompted and continue to make changes for as long as you'd like:
 
-![Application Screenshot]
 
 * When you're done, you can select `Exit` at the end of the main menu choices or `^c` at any time:
 
-![Application Screenshot]
+## Screenshot
+![employee-tracker-dashboard](img/employeetrackerdash.jpg)
+
+## GitHub URL
+https://github.com/karafaris/EmployeeTracker.git
+
+## YouTube URL
 
 
 ## Credits

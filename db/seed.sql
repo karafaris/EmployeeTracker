@@ -1,4 +1,7 @@
-USE employeeDB;
+-- Active: 1689168264375@@127.0.0.1@3306@seeds.sql
+
+
+USE employeeDB ;
 
 INSERT INTO department (name)
 VALUES ('Design'), ('Marketing');

@@ -1,3 +1,4 @@
+-- Active: 1689168264375@@127.0.0.1@3306@schema.sql
 DROP DATABASE IF EXISTS employeeDB;
 CREATE DATABASE employeeDB;
 

@@ -8,7 +8,7 @@ const util = require("util");
 const connection = mysql.createConnection({
   host: 'localhost',
   port: 3306,
-  user: 'kara.faris@du.edu',
+  user: 'root',
   password: 'River0311$',
   database: 'employeeDB'
 });
