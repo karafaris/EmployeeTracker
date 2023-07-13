@@ -84,6 +84,7 @@ mysql -u root -p < db/schema.sql
 https://github.com/karafaris/EmployeeTracker.git
 
 ## YouTube URL
+https://youtu.be/bTA37PWM9Bw
 
 
 ## Credits
